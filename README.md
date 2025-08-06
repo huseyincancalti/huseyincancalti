@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- Buraya banner veya kişisel logo ekleyebilirsiniz -->
-  <!-- ![Banner](banner-linki) -->
+  <p align="center">
+  <img src="bglogo.png" alt="Logo" width="200" height="200">
+  </p>
 </div>
 
 ## 👋 About Me
