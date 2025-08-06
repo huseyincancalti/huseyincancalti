@@ -41,7 +41,7 @@ Exploring voice acting and dubbing, focusing on professional quality as a hobby.
 ## 🖥️ Links
 
 - 🌐 [My website / Portfolio](https://huseyincancalti.github.io/karakedidub/)
-- 📧 [E-mail](mailto:hsyncalti2@gmail.com)
+- 📧 [hsyncalti2@gmail.com](mailto:hsyncalti2@gmail.com)
 <!-- Diğer sosyal medya veya iletişim eklersen buraya ekleyebilirsin -->
 
 ---
