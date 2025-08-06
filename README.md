@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="bglogo.png" alt="Logo" width="200" height="200">
+  <img src="bglogo.webp" alt="Logo" width="200" height="200">
   </p>
 </div>
 
