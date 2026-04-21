@@ -1,50 +1,59 @@
 <div align="center">
-  <p align="center">
-  <img src="bglogo.webp" alt="Logo" width="200" height="200">
-  </p>
+  <h2>Hi there, I'm Hüseyin Can Çaltı 👋</h2>
+  <h4>Software Engineering Student | Backend & Game Development</h4>
+  <p>Building scalable solutions, developing interactive experiences, and leading technical teams.</p>
 </div>
 
-## 👋 About Me
+---
 
-- Software engineering student
-- Interested in web & game development
-- Exploring professional-quality voiceover as a creative hobby
+### 👨‍💻 About Me
+
+- 🎓 3rd-year **Software Engineering** student at Istanbul Health and Technology University.
+- 🚀 Currently coordinating software-hardware integration for a **Teknofest 2026** Mid-Altitude Rocket Project.
+- 🕹️ Developing complex mechanics and systems using **Unity (C#)** and exploring **Unreal Engine**.
+- 🌍 Actively volunteering as an Assistant Scout Leader (TİF) and organizing youth projects.
+- 📫 How to reach me: [hsyncalti2@gmail.com](mailto:hsyncalti2@gmail.com) | [LinkedIn](https://linkedin.com/in/Huseyin-Can-Calti)
 
 ---
 
-## 🔧 Technologies & Tools
+### 🚀 Featured Projects
 
-![Unity](https://img.shields.io/badge/-Unity-222C37?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+*GitHub depoları (repository) eklendikçe buradaki "#" işaretlerini linklerle değiştirebilirsin.*
 
----
-
-## 📂 Projects
-
-- **Simple Web Design** — Basic personal website project *(learning project)*
-- **Cik-Wick** — Entry-level Unity puzzle game *(inspired by a YouTube tutorial)*
-- **Random Program** — School assignment, exploring AI with guidance
-
-*(I am still learning and improving my skills, so these are beginner-level projects.)*
+* **[Teknofest 2026 - Mid-Altitude Rocket System](#)** *Developing real-time flight data processing algorithms and coordinating systems integration for an A2-level rocket. (C/C++, Embedded Systems)*
+* **[Tab Folder Organizer Extension](#)** *Designing functional data structures to optimize browser memory usage and improve user workflow efficiency. (JavaScript, HTML/CSS, Browser APIs)*
+* **[Gearshift (Stargate GameJam 2025)](#)** *Delivered a functional isometric hack-and-slash game loop within a strict 48-hour deadline. (Unity, C#)*
+* **[Turkistan Digital Documentary Platform](#)** *Integrating custom video players and dynamic content management on a multi-lingual scrollytelling map. (JavaScript, SVG Manipulation)*
 
 ---
 
-## 🎙 Voiceover
+### 🔧 Technologies & Tools
 
-Exploring voice acting and dubbing, focusing on professional quality as a hobby.
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-## 🖥️ Links
+### 📊 GitHub Stats
 
-- 🌐 [My website / Portfolio](https://huseyincancalti.github.io/karakedidub/)
-- 📧 [hsyncalti2@gmail.com](mailto:hsyncalti2@gmail.com)
-<!-- Diğer sosyal medya veya iletişim eklersen buraya ekleyebilirsin -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huseyincancalti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincancalti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
 
 ---
 
-<!-- Buraya kendi banner veya görsellerini eklediğinde profil daha zengin gözükecek -->
+### 🎙️ Digital Content Creation
+
+Beyond coding, I manage a professional multimedia portfolio at [karakedidub.com](https://karakedidub.com/), where I utilize **Adobe Audition** and **Photoshop** for high-quality voiceover, dubbing, and content editing.
