@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there, I'm Hüseyin Can Çaltı 👋</h2>
-  <h4>Software Engineering Student | Backend & Game Development</h4>
+  <h4>Software Engineering Student | Full Stack & Game Development</h4>
   <p>Building scalable solutions, developing interactive experiences, and leading technical teams.</p>
 </div>
 
@@ -17,8 +17,6 @@
 ---
 
 ### 🚀 Featured Projects
-
-*GitHub depoları (repository) eklendikçe buradaki "#" işaretlerini linklerle değiştirebilirsin.*
 
 * **[Teknofest 2026 - Mid-Altitude Rocket System](#)** *Developing real-time flight data processing algorithms and coordinating systems integration for an A2-level rocket. (C/C++, Embedded Systems)*
 * **[Tab Folder Organizer Extension](#)** *Designing functional data structures to optimize browser memory usage and improve user workflow efficiency. (JavaScript, HTML/CSS, Browser APIs)*
