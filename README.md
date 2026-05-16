@@ -16,15 +16,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-* **[Teknofest 2026 - Mid-Altitude Rocket System](#)** *Developing real-time flight data processing algorithms and coordinating systems integration for an A2-level rocket. (C/C++, Embedded Systems)*
-* **[Tab Folder Organizer Extension](#)** *Designing functional data structures to optimize browser memory usage and improve user workflow efficiency. (JavaScript, HTML/CSS, Browser APIs)*
-* **[Gearshift (Stargate GameJam 2025)](#)** *Delivered a functional isometric hack-and-slash game loop within a strict 48-hour deadline. (Unity, C#)*
-* **[Turkistan Digital Documentary Platform](#)** *Integrating custom video players and dynamic content management on a multi-lingual scrollytelling map. (JavaScript, SVG Manipulation)*
-
----
-
 ### 🔧 Technologies & Tools
 
 <p align="center">
