@@ -1,22 +1,64 @@
 <div align="center">
-  <h2>Hi there, I'm Hüseyin Can Çaltı 👋</h2>
-  <h4>Software Engineering Student | Full Stack & Game Development</h4>
-  <p>Building scalable solutions, developing interactive experiences, and leading technical teams.</p>
+  <h1>Hüseyin Can Çaltı 🚀</h1>
+  <h3>Full Stack Developer | System Automation & Game Systems Engineer</h3>
+  <p><strong>Building production-ready software, architecting secure automation systems, and leading cross-functional engineering teams.</strong></p>
+
+  <p align="center">
+    <a href="mailto:hsyncalti2@gmail.com"><img src="https://img.shields.io/badge/Email-hsyncalti2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/Huseyin-Can-Calti"><img src="https://img.shields.io/badge/LinkedIn-Hüseyin_Can_Çaltı-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+  <h1>Hüseyin Can Çaltı 🚀</h1>
+  <h3>Full Stack Developer | System Automation & Game Systems Engineer</h3>
+  <p><strong>Building production-ready software, architecting secure automation systems, and leading cross-functional engineering teams.</strong></p>
 
-- 🎓 3rd-year **Software Engineering** student at Istanbul Health and Technology University.
-- 🚀 Currently coordinating software-hardware integration for a **Teknofest 2026** Mid-Altitude Rocket Project.
-- 🕹️ Developing complex mechanics and systems using **Unity (C#)** and exploring **Unreal Engine**.
-- 🌍 Actively volunteering as an Assistant Scout Leader (TİF) and organizing youth projects.
-- 📫 How to reach me: [hsyncalti2@gmail.com](mailto:hsyncalti2@gmail.com) | [LinkedIn](https://linkedin.com/in/Huseyin-Can-Calti)
+  <br/>
+
+  <!-- Gmail Bölümü -->
+  <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
+    <a href="mailto:hsyncalti2@gmail.com">
+      <img src="./gmail.png" width="45" alt="Gmail" />
+    </a>
+    <br/>
+    <sub style="color: #666;"><b>hsyncalti2@gmail.com</b></sub>
+  </div>
+
+  <!-- LinkedIn Bölümü -->
+  <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
+    <a href="https://linkedin.com/in/Huseyin-Can-Calti">
+      <img src="./linkedin.png" width="45" alt="LinkedIn" />
+    </a>
+    <br/>
+    <sub style="color: #666;"><b>Huseyin-Can-Calti</b></sub>
+  </div>
+</div>
 
 ---
 
-### 🔧 Technologies & Tools
+### 👨‍💻 Engineering Executive Summary
+
+I am a 3rd-year **Software Engineering** student at Istanbul Health and Technology University, specialized in bridging the gap between high-level frontend architectures and raw backend automation. 
+
+* 🚀 **Technical Leadership:** Engineering Lead managing software-hardware integration and telemetry systems for a **Teknofest 2026** Mid-Altitude Rocket Project.
+* 🕹️ **Interactive Architectures:** Architecting complex gameplay systems and mathematical mechanics inside **Unity (C#)** and **Unreal Engine**.
+* 🛡️ **System Automation:** Designing secure, local middleware systems using Native Messaging APIs to expand web extension capabilities beyond browser sandboxes.
+* 🌍 **Project Delivery:** Assistant Scout Leader (TİF) leveraging agile team coordination to execute high-impact youth and technical deployment projects.
+
+---
+
+### 📦 Shipped Open-Source Products
+
+* 🛠️ **[TabGroup-Master](https://github.com/huseyincancalti/TabGroup-Master):** A full-screen hierarchical workspace manager for Google Chrome. Combines complex nested tree manipulation (SortableJS) with a standalone compiled Python macro-engine (`Native Messaging API`) to bypass session data limits. Shipped successfully as a production alpha bundle.
+* 🔄 **[XenUpdate](https://github.com/huseyincancalti/XenUpdate):** A highly-optimized system deployment utility built to automate environment setups and manage secure software updates smoothly.
+* 🕹️ **[Game Systems Showcase (Itch.io)](https://karakedi.itch.io/):** A portfolio of playable interactive mechanics focusing on performance optimization, C# architectural patterns, and custom gameplay state machines.
+
+---
+
+### 🔧 Core Stack & Technical Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -34,15 +76,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Productivity & Velocity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huseyincancalti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincancalti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=huseyincancalti&theme=radical&hide_border=true" width="44%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyincancalti&theme=radical&hide_border=true" width="50%" />
+</p>
 
 ---
 
-### 🎙️ Digital Content Creation
+### 🎙️ Multimedia & Project Operations
 
-Beyond coding, I manage a professional multimedia portfolio at [karakedidub.com](https://karakedidub.com/), where I utilize **Adobe Audition** and **Photoshop** for high-quality voiceover, dubbing, and content editing.
+Beyond direct software engineering, I scale and monetize cross-disciplinary projects at [karakedidub.com](https://karakedidub.com/). Utilizing professional setups in **Adobe Audition** and **Photoshop** for full-scale digital dubbing, audio localization, and content creation, this venture proves my ability to independently deploy, market, and manage a digital product from inception to end-users.
