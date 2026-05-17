@@ -11,34 +11,6 @@
 
 ---
 
-<div align="center">
-  <h1>Hüseyin Can Çaltı 🚀</h1>
-  <h3>Full Stack Developer | System Automation & Game Systems Engineer</h3>
-  <p><strong>Building production-ready software, architecting secure automation systems, and leading cross-functional engineering teams.</strong></p>
-
-  <br/>
-
-  <!-- Gmail Bölümü -->
-  <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
-    <a href="mailto:hsyncalti2@gmail.com">
-      <img src="./gmail.png" width="45" alt="Gmail" />
-    </a>
-    <br/>
-    <sub style="color: #666;"><b>hsyncalti2@gmail.com</b></sub>
-  </div>
-
-  <!-- LinkedIn Bölümü -->
-  <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
-    <a href="https://linkedin.com/in/Huseyin-Can-Calti">
-      <img src="./linkedin.png" width="45" alt="LinkedIn" />
-    </a>
-    <br/>
-    <sub style="color: #666;"><b>Huseyin-Can-Calti</b></sub>
-  </div>
-</div>
-
----
-
 ### 👨‍💻 Engineering Executive Summary
 
 I am a 3rd-year **Software Engineering** student at Istanbul Health and Technology University, specialized in bridging the gap between high-level frontend architectures and raw backend automation. 
