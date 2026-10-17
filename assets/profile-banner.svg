@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10131E"/>
+      <stop offset=".55" stop-color="#19172C"/>
+      <stop offset="1" stop-color="#25152E"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7C6CFF"/>
+      <stop offset="1" stop-color="#37D8C5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 240 -390 0 1015 135)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#845BFF" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#845BFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#D8DBFF" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M0 258C210 220 300 306 510 263C708 222 765 155 960 180C1073 195 1137 218 1200 188" stroke="url(#beam)" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="1010" cy="142" r="104" stroke="#A69CFF" stroke-opacity=".24"/>
+  <circle cx="1010" cy="142" r="76" stroke="#55D9CC" stroke-opacity=".34"/>
+  <circle cx="1010" cy="142" r="8" fill="#6FE5D2"/>
+  <circle cx="1085" cy="100" r="4" fill="#B4A7FF"/>
+  <circle cx="938" cy="211" r="3" fill="#6FE5D2"/>
+  <path d="M900 142H1120M1010 32V252" stroke="#A69CFF" stroke-opacity=".12"/>
+  <rect x="72" y="57" width="36" height="3" rx="1.5" fill="url(#beam)"/>
+  <text x="72" y="124" fill="#F5F5FA" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="1.5">HÜSEYİN CAN ÇALTI</text>
+  <text x="74" y="163" fill="#C6C7D6" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">SOFTWARE · SYSTEMS · CREATIVE TOOLS</text>
+  <text x="74" y="234" fill="#9B9CAE" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.2">Building useful things across desktop, games, media and AI workflows.</text>
+  <g fill="#DAD9F0" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1">
+    <text x="74" y="281">C#</text><circle cx="111" cy="277" r="2" fill="#6FE5D2"/>
+    <text x="124" y="281">UNITY</text><circle cx="181" cy="277" r="2" fill="#6FE5D2"/>
+    <text x="194" y="281">AI TOOLS</text><circle cx="278" cy="277" r="2" fill="#6FE5D2"/>
+    <text x="291" y="281">DESIGN</text>
+  </g>
+</svg>
