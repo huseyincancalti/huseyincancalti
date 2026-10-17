@@ -8,11 +8,17 @@
 
 ## About
 
-I build practical software across desktop applications, game systems, browser tooling, and media workflows. I enjoy turning fiddly workflows into focused tools with clear interfaces.
+I build practical software across desktop applications, game systems, browser tooling, and media workflows. I deliberately use AI coding agents in my development process, directing and reviewing their work as part of how I build software.
 
 ## Featured work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong><a href="https://github.com/huseyincancalti/Borasuki">Borasuki</a></strong><br />
+      A Windows desktop app for 2× upscaling anime and animation videos with Real-CUGAN TensorRT. Includes denoise and color modes, preview and queue workflows, and HEVC Main10 export.
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/huseyincancalti/EchoPlay">EchoPlay</a></strong><br />
@@ -24,27 +30,23 @@ I build practical software across desktop applications, game systems, browser to
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/huseyincancalti/VesperGlass">Vesper Glass</a></strong><br />
-      A configurable glass-inspired theme for Playnite Desktop Mode.
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <strong><a href="https://github.com/huseyincancalti/TabGroup-Master">TabGroup Master</a></strong><br />
       A Chrome workspace manager with nested tab groups and automation support.
     </td>
   </tr>
 </table>
 
-## Areas I explore
+## GitHub activity
 
-| Area | Interests |
-| --- | --- |
-| **AI skills & workflows** | Coding-agent skills, useful developer workflows, local AI |
-| **MCP & AI systems** | MCP tools, agent orchestration, memory and knowledge systems |
-| **Games, 2D & 3D** | Unity, Unreal Engine, gameplay systems, sprites and 3D tools |
-| **Design & motion** | Design systems, interaction, UI craft and animation |
-| **Text, search & analysis** | OCR, document conversion, code search and research tools |
-| **Desktop & media** | Windows utilities, audio/video workflows and device connectivity |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyincancalti&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincancalti&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyincancalti&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
 
 ## Toolkit
 
