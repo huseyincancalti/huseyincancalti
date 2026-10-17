@@ -8,31 +8,35 @@
 
 ## About
 
-I build practical software across desktop applications, game systems, browser tooling, and media workflows. I deliberately use AI coding agents in my development process, directing and reviewing their work as part of how I build software.
+I build useful software for desktop, browser, and media workflows. I deliberately work with AI coding agents, guiding the implementation and reviewing the results.
 
 ## Featured work
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/huseyincancalti/Borasuki">Borasuki</a></strong><br />
-      A Windows desktop app for 2× upscaling anime and animation videos with Real-CUGAN TensorRT. Includes denoise and color modes, preview and queue workflows, and HEVC Main10 export.
+      A Windows app for 2× anime and animation upscaling with Real-CUGAN TensorRT, preview and batch queue workflows, and HEVC Main10 export.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/huseyincancalti/Audio-Engine">Audio Engine</a></strong><br />
+      A Chrome and Firefox extension for per-site volume rules, volume boost, 5-band EQ, and audio compression.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/huseyincancalti/EchoPlay">EchoPlay</a></strong><br />
-      A Windows player for dual-track game recordings. Mix game, microphone, and system audio live without re-encoding.
+      A Windows, macOS, and Linux player that mixes separate game and microphone tracks in NVIDIA ShadowPlay, NVIDIA App, and OBS recordings.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/huseyincancalti/XenUpdate">XenUpdate</a></strong><br />
-      A unified Windows update workspace for Store apps, winget, Windows Update, devices, and drivers.
+      A Windows update manager for Microsoft Store, winget, Windows Update, devices, and GPU or BIOS drivers.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <strong><a href="https://github.com/huseyincancalti/TabGroup-Master">TabGroup Master</a></strong><br />
-      A Chrome workspace manager with nested tab groups and automation support.
+      A local-first browser workspace for nested tab groups, backups, and quick restore.
     </td>
   </tr>
 </table>
@@ -40,18 +44,22 @@ I build practical software across desktop applications, game systems, browser to
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyincancalti&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincancalti&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="Most used languages in public repositories" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyincancalti&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
+    <img src="./profile/contribution-snake.svg" alt="Animated GitHub contribution activity" width="100%" />
+  </picture>
 </div>
 
 ## Toolkit
 
-**Languages:** C# · C++ · Java · JavaScript · TypeScript · SQL  
-**Tools:** Unity · Unreal Engine · .NET / WPF · Git
+**Languages:** C# · C++ · JavaScript · TypeScript · Python  
+**Tools:** Unity · Unreal Engine · .NET / WPF · Git · AI coding agents
 
 ---
 
